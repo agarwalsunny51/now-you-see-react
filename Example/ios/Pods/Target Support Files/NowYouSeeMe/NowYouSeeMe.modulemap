@@ -1,0 +1,6 @@
+module NowYouSeeMe {
+  umbrella header "NowYouSeeMe-umbrella.h"
+
+  export *
+  module * { export * }
+}

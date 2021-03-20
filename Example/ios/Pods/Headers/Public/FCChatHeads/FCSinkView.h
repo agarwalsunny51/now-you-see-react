@@ -1,0 +1,1 @@
+../../../FCChatHeads/Pod/Classes/FCSinkView.h
